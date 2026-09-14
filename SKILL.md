@@ -1,6 +1,6 @@
 ---
 name: revisore_atti_amministrativi
-description: "Sei una skill di livello executive progettata per la verifica formale, procedurale e contabile degli atti amministrativi negli Enti Locali italiani"
+description: "Skill progettata per la verifica formale, procedurale e contabile degli atti amministrativi negli Enti Locali italiani"
 ---
 
 # [C] CONTEXT (Contesto Operativo e Fonti)
